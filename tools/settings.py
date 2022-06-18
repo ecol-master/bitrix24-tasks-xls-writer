@@ -1,17 +1,8 @@
-BITRIX_DOMEN = "b24-tq78e8"
-# BITRIX_DOMEN = "b24-6i43g2"
+# YOUR BITRIX DOMEN
+BITRIX_DOMEN = ""
 
-BITRIX_KEY = "lb1k2t9pgnvd1hkn"
-# BITRIX_KEY = "uqljsubu0ze8wl7z"
+# YOUR BITRIX KEY
+BITRIX_KEY = ""
 
-
-FIELDS = [
-    "TITLE", "DESCRIPTION", "DEADLINE", "DATE_START", "RESPONSIBLE_ID", 
-    "RESPONSIBLE_NAME", "RESPONSIBLE_LAST_NAME", "RESPONSIBLE_SECOND_NAME", 
-    "DURATION_PLAN", "CREATED_DATE", "DURATION_FACT", "CLOSED_BY", "CHANGED_BY"
-]
-
-
-# folders to save file
+# folder to save file
 XLS_FOLDER = "xls_data/"
-JSON_FOLDER = "json/data/"
